@@ -4,7 +4,7 @@ A mobile-friendly web app for calculating PTO/ETO time based on
 6-minute clocking increments. Shifts and breaks are fully
 customizable and saved locally in your browser.
 
-**Live app:** https://supersammich24.github.io/PTO-ETO-Calculator/
+**Live app:** https://standrich-technology.github.io/PTO-ETO-Calculator/
 
 ## Features
 - Multiple custom shifts (1st/2nd/3rd or whatever you need)
